@@ -1,12 +1,12 @@
-<h1 align="center">Olá, mundo! Eu sou o Moaby 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Moaby%20Queiroz&fontSize=50&fontColor=E2E4E9&animation=fadeIn&desc=Desenvolvedor%20Fullstack&descAlignY=75&descSize=20" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E3646E&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Front-end+%2B+Back-end+%2B+Cloud;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E3646E&center=true&vCenter=true&width=600&lines=Ol%C3%A1+mundo%2C+eu+sou+o+Moaby;Desenvolvedor+Fullstack;Front-end+%2B+Back-end+%2B+Cloud;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Transformo necessidades em aplicações reais, envolventes e funcionais. Desenvolvo sistemas através da
-  minha paixão pela tecnologia, contribuindo com soluções inovadoras e eficazes para desafios complexos.
+  👨‍💻 Transformo necessidades em aplicações reais, envolventes e funcionais &nbsp;•&nbsp;
+  🚀 Front-end, back-end e cloud &nbsp;•&nbsp; 🌱 Sempre aprendendo algo novo
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="https://github.com/Moabyqueiroz" target="_blank"><img src="https://img.shields.io/badge/GitHub-16181D?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
 ### 🚀 Stack
 
@@ -31,8 +31,6 @@
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
 
----
-
 ### 📊 Estatísticas
 
 <p align="center">
@@ -44,19 +42,27 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moabyqueiroz&theme=dark&hide_border=true&background=16181D&ring=E3646E&fire=E3646E&currStreakLabel=E3646E" />
 </p>
 
----
+### 🐍 Contribuições
 
-### 📌 Projetos em destaque
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moabyqueiroz/Moabyqueiroz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moabyqueiroz/Moabyqueiroz/output/github-contribution-grid-snake.svg" />
+    <img alt="snake game showing github contribution graph" src="https://raw.githubusercontent.com/Moabyqueiroz/Moabyqueiroz/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <!--
-  Dica: fixe até 6 repositórios no seu perfil (botão "Customize your pins" na
-  página inicial do GitHub) para eles aparecerem aqui como cards automáticos.
+  A animação acima é gerada automaticamente por uma GitHub Action
+  (.github/workflows/snake.yml) a partir do seu gráfico de contribuições.
+  Ela aparece assim que a Action rodar pela primeira vez (alguns minutos
+  após este push) e se atualiza sozinha todos os dias.
 -->
+
+### 📌 Projetos em destaque
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moabyqueiroz&repo=portfolio-moaby-queiroz&theme=dark&hide_border=true&bg_color=16181D&title_color=E3646E&text_color=C0C4CE" />
 </p>
 
----
-
-<p align="center"><i>Vamos trabalhar juntos? Me chama em qualquer um dos links acima.</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
